@@ -1,0 +1,26 @@
+Conceptual Problems
+
+Jawab pertanyaan berikut:
+1. Jelaskan apa yang kalian ketahui dari Airflow menggunakan pemahaman yang kalian ketahui!
+
+2. Jelaskan apa yang kalian ketahui dari Great Expectations menggunakan pemahaman yang kalian ketahui!
+
+3. Jelaskan apa yang kalian ketahui dari Batch Processing menggunakan pemahaman yang kalian ketahui!
+
+----------------------------------------------------------------------------------------------------------------------------------
+1. 
+Apache Airflow adalah platform open-source untuk mengelola dan menjadwalkan aliran kerja yang kompleks. 
+Ini menggunakan Directed Acyclic Graphs (DAGs) untuk mengatur tugas-tugas, memiliki scheduler untuk menjalankannya, 
+operator untuk menjalankan tugas-tugas spesifik, serta antarmuka web untuk pengawasan. 
+Airflow fleksibel, dapat terhubung dengan berbagai sumber daya, dan banyak digunakan dalam pengolahan data dan 
+otomatisasi tugas-tugas.
+
+2. 
+Great Expectations adalah alat open-source untuk memvalidasi kualitas data dalam proyek data. 
+Ini memungkinkan pengguna untuk menentukan aturan (ekspektasi), memvalidasi data berdasarkan aturan ini, dan 
+memantau perubahan dalam kualitas data. Great Expectations membantu memastikan data yang konsisten dan 
+dapat diandalkan dalam analisis data.
+
+3.
+Batch processing adalah pendekatan pemrosesan data di mana data diproses secara periodik dalam kelompok besar, 
+bukan secara real-time. Ini efisien untuk analisis data besar dan tidak memerlukan respons instan terhadap data masukan.
